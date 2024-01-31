@@ -1,5 +1,4 @@
 {
-	"author": "John Caleb",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
@@ -8,6 +7,7 @@
 	"scripts": {
 		"start": "node server.js"
 	},
+	"author": "John Caleb",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
